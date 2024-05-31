@@ -2,8 +2,9 @@
 class routes
 {
     private $controllers = [
-        'product' => ['index', 'error','create'] ,
-        'users' => ['index','update','create']
+        'product' => ['index', 'error', 'create'],
+        'users' => ['index', 'update', 'create'],
+        'cart' => ['index']
     ];
     public function checkRoute($controller, $action)
     {

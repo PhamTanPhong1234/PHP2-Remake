@@ -128,7 +128,7 @@
                 <li><a style="color: #000;" href="./index.php?controller=product&action=index"><i class="fa-solid fa-list"></i>Danh Sách Sản Phẩm</a></li>
                 <li><a href="index.php?controller=product&action=create"><i class="fa-solid fa-square-plus"></i>Thêm Sản Phẩm</a></li>
                 <li><a href="."><i class="fa-solid fa-square-plus"></i>Thêm Danh Mục</a></li>
-                <li><a href="./order.php"><i class="fa-solid fa-list"></i></i>Danh Sách Đơn Hàng</a></li>
+                <li><a href="./index.php?controller=cart&action=index"><i class="fa-solid fa-list"></i></i>Danh Sách Đơn Hàng</a></li>
                 <li><a href="./index.php?controller=users&action=index"><i class="fa-solid fa-list"></i>Danh Sách Người Dùng</a></li>
                 <li><a href="./index.php?controller=users&action=index"><i class="fa-solid fa-list"></i>Thêm Người Dùng</a></li>
             </ul>
