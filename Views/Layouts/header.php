@@ -25,7 +25,7 @@
             right: 0;
             width: 100%;
             height: 80px;
-            background-color: #F6F1F1;
+            background-color: #fff;
             box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.3);
         }
 
